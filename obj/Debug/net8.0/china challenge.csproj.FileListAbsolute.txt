@@ -28,3 +28,4 @@ C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\refint\china
 C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.pdb
 C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.genruntimeconfig.cache
 C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\ref\china challenge.dll
+C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.sourcelink.json
