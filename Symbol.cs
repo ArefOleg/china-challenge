@@ -15,7 +15,7 @@ namespace Symbol
                 this.arrayUndoubledTextSymbols = new List<string>();
                 foreach(var symbol in arrayTextSymbols){
                     if(!arrayUndoubledTextSymbols.Contains(Convert.ToString(symbol))){
-                        Console.WriteLine(textSymbols.Length);
+                        arrayUndoubledTextSymbols.Add(Convert.ToString(symbol));
                     }
                 }
             }

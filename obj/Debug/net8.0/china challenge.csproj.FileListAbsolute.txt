@@ -1,31 +1,62 @@
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\appsettings.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\china challenge.staticwebassets.runtime.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\china challenge.exe
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\china challenge.deps.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\china challenge.runtimeconfig.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\china challenge.dll
-C:\Users\ov.arefev\Documents\Arena\china challenge\bin\Debug\net8.0\china challenge.pdb
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.AssemblyInfoInputs.cache
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.AssemblyInfo.cs
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.csproj.CoreCompileInputs.cache
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.RazorAssemblyInfo.cache
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.RazorAssemblyInfo.cs
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets\msbuild.china challenge.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets\msbuild.build.china challenge.props
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.china challenge.props
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.china challenge.props
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\scopedcss\bundle\china challenge.styles.css
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\scopedcss\projectbundle\china challenge.bundle.scp.css
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.dll
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\refint\china challenge.dll
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.pdb
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.genruntimeconfig.cache
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\ref\china challenge.dll
-C:\Users\ov.arefev\Documents\Arena\china challenge\obj\Debug\net8.0\china challenge.sourcelink.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/appsettings.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/china challenge.staticwebassets.runtime.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/china challenge.exe
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/china challenge.deps.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/china challenge.runtimeconfig.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/china challenge.dll
+C:/Users/ov.arefev/Documents/Arena/china challenge/bin/Debug/net8.0/china challenge.pdb
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.AssemblyInfoInputs.cache
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.AssemblyInfo.cs
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.csproj.CoreCompileInputs.cache
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.RazorAssemblyInfo.cache
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.RazorAssemblyInfo.cs
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets/msbuild.china challenge.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets/msbuild.build.china challenge.props
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.china challenge.props
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.china challenge.props
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/scopedcss/bundle/china challenge.styles.css
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/scopedcss/projectbundle/china challenge.bundle.scp.css
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.dll
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/refint/china challenge.dll
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.pdb
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.genruntimeconfig.cache
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/ref/china challenge.dll
+C:/Users/ov.arefev/Documents/Arena/china challenge/obj/Debug/net8.0/china challenge.sourcelink.json
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/appsettings.Development.json
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/appsettings.json
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/china challenge.staticwebassets.runtime.json
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/china challenge
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/china challenge.deps.json
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/china challenge.runtimeconfig.json
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/china challenge.dll
+/media/oleg/USB-FLESH-N/china-challenge/bin/Debug/net8.0/china challenge.pdb
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.GeneratedMSBuildEditorConfig.editorconfig
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.AssemblyInfoInputs.cache
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.AssemblyInfo.cs
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.csproj.CoreCompileInputs.cache
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.MvcApplicationPartsAssemblyInfo.cache
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.RazorAssemblyInfo.cache
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.RazorAssemblyInfo.cs
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.sourcelink.json
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets.build.json
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets.development.json
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets/msbuild.china challenge.Microsoft.AspNetCore.StaticWebAssets.props
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets/msbuild.build.china challenge.props
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.china challenge.props
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.china challenge.props
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/staticwebassets.pack.json
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/scopedcss/bundle/china challenge.styles.css
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/scopedcss/projectbundle/china challenge.bundle.scp.css
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.dll
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/refint/china challenge.dll
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.pdb
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/china challenge.genruntimeconfig.cache
+/media/oleg/USB-FLESH-N/china-challenge/obj/Debug/net8.0/ref/china challenge.dll

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ov.arefev\\.nuget\\packages\\": {}
+    "/home/oleg/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ov.arefev\\Documents\\Arena\\china challenge\\china challenge.csproj",
+      "projectUniqueName": "/media/oleg/USB-FLESH-N/china-challenge/china challenge.csproj",
       "projectName": "china challenge",
-      "projectPath": "C:\\Users\\ov.arefev\\Documents\\Arena\\china challenge\\china challenge.csproj",
-      "packagesPath": "C:\\Users\\ov.arefev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ov.arefev\\Documents\\Arena\\china challenge\\obj\\",
+      "projectPath": "/media/oleg/USB-FLESH-N/china-challenge/china challenge.csproj",
+      "packagesPath": "/home/oleg/.nuget/packages/",
+      "outputPath": "/media/oleg/USB-FLESH-N/china-challenge/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ov.arefev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/oleg/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
